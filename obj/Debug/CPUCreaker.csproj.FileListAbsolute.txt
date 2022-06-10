@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\CPUCreaker\CPUCreaker\bin\Debug\CPUCreaker.exe.config
+C:\Users\Administrator\source\repos\CPUCreaker\CPUCreaker\bin\Debug\CPUCreaker.exe
+C:\Users\Administrator\source\repos\CPUCreaker\CPUCreaker\bin\Debug\CPUCreaker.pdb
+C:\Users\Administrator\source\repos\CPUCreaker\CPUCreaker\obj\Debug\CPUCreaker.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CPUCreaker\CPUCreaker\obj\Debug\CPUCreaker.Form1.resources
+C:\Users\Administrator\source\repos\CPUCreaker\CPUCreaker\obj\Debug\CPUCreaker.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CPUCreaker\CPUCreaker\obj\Debug\CPUCreaker.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CPUCreaker\CPUCreaker\obj\Debug\CPUCreaker.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CPUCreaker\CPUCreaker\obj\Debug\CPUCreaker.exe
+C:\Users\Administrator\source\repos\CPUCreaker\CPUCreaker\obj\Debug\CPUCreaker.pdb
